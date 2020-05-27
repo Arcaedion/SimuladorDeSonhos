@@ -2,6 +2,10 @@
 
 # Simulador De Sonhos
 
+## Servidor do Discord
+
+Dúvidas? Procure ajuda no nosso Discord: https://discord.gg/kEjJ8ax
+
 ## Tutorial GitHub
 
 Esse pequeno protótipo contém um pequeno nível com Dolly, a ovelha, e sua missão de saltar cercas. 
